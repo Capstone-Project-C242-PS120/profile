@@ -29,7 +29,9 @@
 </table>
 
 <p align="justify">
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularized in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<b>Teja</b> is a smart nutrition assistant designed to empower consumers with quick, accurate, and reliable nutritional information for both packaged and unpackaged foods. By leveraging AI-powered technology, users can easily scan ingredient lists on packaged foods to receive instant nutritional assessments. For unpackaged foods, the app provides access to a comprehensive nutritional database, offering detailed insights into food quality and nutrient composition.
+
+The application also features personalized dietary suggestions, nutrient filters, and healthy recipe ideas, catering to user-specific dietary needs and health goals. With an intuitive interface, this solution supports informed dietary decisions, promoting healthier lifestyles and enhancing overall wellness.
 </p>
 
 ---
@@ -65,7 +67,14 @@
 
 # 🤖 Machine Learning
 <p align="justify">
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+  <b>Teja</b> is an innovative application designed to analyze food packaging and provide personalized nutritional insights and recommendations. By leveraging advanced machine learning, it integrates three core capabilities: extracting nutritional data using PaddleOCR, classifying food into nutrition grades with a neural network, and delivering tailored suggestions through a deep learning-powered content-based filtering model.
+
+<b>Technology Highlights</b>
+1. PaddleOCR: Captures and processes text from food packaging with high accuracy.
+2. Neural Networks: Provides reliable classification of nutritional data into meaningful grades.
+3. Deep Learning: Delivers personalized, data-driven recommendations based on user preferences.
+4. FastAPI: Enables a fast, secure, and scalable API for seamless integration and interaction.
+5. Docker: Simplifies deployment and scalability with a consistent containerized environment.
 </p>
 
 ---
@@ -79,5 +88,5 @@
 
 # 🙏 Special Thanks  
 <div align="center">
-  <img src="https://github.com/Capstone-Project-C242-PS120/profile/blob/d1d34d8c679af63ea693d885b9d4fb1ec1db7331/assets/specialthanks.png" alt="Special Thanks" width="400" />
+  <img src="https://github.com/Capstone-Project-C242-PS120/profile/blob/d1d34d8c679af63ea693d885b9d4fb1ec1db7331/assets/specialthanks.png" alt="Special Thanks" width="700" />
 </div>
