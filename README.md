@@ -53,7 +53,7 @@
 | Path               | Link Repository                                                                                                 |  
 |--------------------|---------------------------------------------------------------------------------------------------------------|  
 | ☁️ Cloud Computing | [Backend Services](https://github.com/Capstone-Project-C242-PS120/cloud-computing)                                |  
-| 🤖 Machine Learning | [OCR](https://github.com/Capstone-Project-C242-PS120/machine-learning) <br> [Grade Classification - coming soon] |  
+| 🤖 Machine Learning | [OCR](https://github.com/Capstone-Project-C242-PS120/machine-learning) <br> [Grade Classification - coming soon] <br> [Food Recommendation - coming soon]|  
 | 📱 Mobile Development | [App](https://github.com/Capstone-Project-C242-PS120/mobile-development)                                               |  
 
 ---
