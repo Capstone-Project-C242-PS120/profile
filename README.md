@@ -29,9 +29,9 @@
 </table>
 
 <p align="justify">
-<b>Teja</b> is a smart nutrition assistant designed to empower consumers with quick, accurate, and reliable nutritional information for both packaged and unpackaged foods. By leveraging AI-powered technology, users can easily scan ingredient lists on packaged foods to receive instant nutritional assessments. For unpackaged foods, the app provides access to a comprehensive nutritional database, offering detailed insights into food quality and nutrient composition.
+<b>Teja</b> is an AI-powered app designed to help you make informed food choices and take control of your health. By simply scanning the barcode of a packaged food or searching for an unpackaged item in its extensive database, Teja provides detailed nutritional information and personalized dietary advice tailored to your specific needs and health goals. With cutting-edge AI, Teja goes beyond basic nutrition facts, analyzing food labels and offering tailored recommendations to support a variety of goals, whether you’re aiming to lose weight, gain muscle, or improve your overall well-being. Featuring a simple and intuitive design, Teja is user-friendly and gives you reliable nutritional data at your fingertips.
 
-The application also features personalized dietary suggestions, nutrient filters, and healthy recipe ideas, catering to user-specific dietary needs and health goals. With an intuitive interface, this solution supports informed dietary decisions, promoting healthier lifestyles and enhancing overall wellness.
+<b>Teja</b> is more than just an app—it’s your partner in making smarter, healthier food choices. By simplifying complex nutritional information and delivering it in an easy-to-understand format, Teja empowers you to take charge of your diet and well-being. Download Teja today and start your journey towards a healthier, more informed lifestyle. Your personal nutritionist is just a tap away!
 </p>
 
 ---
