@@ -69,7 +69,7 @@
 <p align="justify">
   <b>Teja</b> is an innovative application designed to analyze food packaging and provide personalized nutritional insights and recommendations. By leveraging advanced machine learning, it integrates three core capabilities: extracting nutritional data using PaddleOCR, classifying food into nutrition grades with a neural network, and delivering tailored suggestions through a deep learning-powered content-based filtering model.
 
-<b>Technology Highlights</b>
+<b>Technology Highlights :</b>
 1. PaddleOCR: Captures and processes text from food packaging with high accuracy.
 2. Neural Networks: Provides reliable classification of nutritional data into meaningful grades.
 3. Deep Learning: Delivers personalized, data-driven recommendations based on user preferences.
@@ -81,7 +81,14 @@
 
 # 📱 Mobile Development
 <p align="justify">
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+  <b>Teja</b> is a mobile application developed using Kotlin, focusing on providing a seamless user experience with modern design and robust architecture. The app offers powerful features such as scanning nutritional data, personalized recommendations, and gamification. Built with a clean MVVM architecture and leveraging cutting-edge libraries like Retrofit and Coroutines, Teja ensures high performance and maintainability.
+
+<b>Technology Highlights :</b> 
+1. Material Design 3 for a modern and intuitive user interface.
+2. OCR integration to scan and interpret nutritional labels with ease.
+3. Data Store for efficient user preferences and data storage.
+4. Gamification features with point rewards to enhance user engagement.
+5. MVVM architecture to ensure scalability and maintainability.
 </p>
 
 ---
